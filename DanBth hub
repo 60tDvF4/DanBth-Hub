@@ -1,0 +1,6 @@
+Config = {
+    namescript = "DanBth hub",--Tên Script
+    logoscript = "92840593315974",--ID Logo Script
+    tacgia = "ông roblox"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
